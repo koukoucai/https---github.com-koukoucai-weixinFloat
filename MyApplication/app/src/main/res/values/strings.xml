@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">玩一玩</string>
+
+    <string name="float_button">float_button</string>
+    <string name="show_float">显示悬浮层</string>
+    <string name="hide_float">关闭悬浮层</string>
+</resources>
